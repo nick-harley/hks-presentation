@@ -1,4 +1,4 @@
-# Representation and Learning of Hierarchical Knowledge Structures
+# Representation and learning of hierarchical knowledge structures
 3rd August 2022
 
 <https://nick-harley.github.io/hks-presentation/>
