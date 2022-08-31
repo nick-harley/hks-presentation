@@ -1,1 +1,10 @@
-# hks-presentation
+# Representation and Learning of Hierarchical Knowledge Structures
+3rd August 2022
+
+<https://nick-harley.github.io/hks-presentation/>
+
+<https://github.com/nick-harley/hks-presentation>
+
+#### Abstract
+
+<embed src="hks-presentation.pdf" type="application/pdf" width="100%" height="700"/>
